@@ -9,4 +9,12 @@ Chicken
 Mutton
 Shawarma
 
+######Soft--Drinks--Menu######
+
+Pepsi 
+Coke
+7UP
+Sprit
+Fresh Juice
+
 ###### Have A Good Day #####
