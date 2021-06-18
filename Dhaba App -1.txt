@@ -1,0 +1,12 @@
+
+##### Welcome #####
+
+Menu:
+
+Roti
+Dosa
+Chicken
+Mutton
+Shawarma
+
+###### Have A Good Day #####
